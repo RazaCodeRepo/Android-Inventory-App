@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <!-- Title text for the empty view, which describes the empty inventory image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">No Items In The Inventory.</string>
+
+    <string name="name_text">Name</string>
+
+    <string name="hint_name">Name</string>
+
+    <string name="price_text">Price</string>
+
+    <string name="hint_price">Price</string>
+
+    <string name="quantity_text">Quantity</string>
+
+    <string name="hint_quantity">Quantity</string>
+
+    <string name="supplier_text">Supplier</string>
+
+    <string name="hint_supplier">Supplier</string>
+
+    <string name="button_text">Take Item Picture</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="price_tag">Price:</string>
+
+    <string name="quantity_tag">Quantity:</string>
+
+    <string name="sale_text">Make A Sale</string>
+
+    <string name="shipment_text">Order Shipment</string>
+
+    <string name="name_tag">Name:</string>
+
+    <string name="supplier_tag">Supplier:</string>
+
+    <string name="rs_text">Rs.</string>
+
+</resources>
